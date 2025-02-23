@@ -1,0 +1,13 @@
+[EMAIL]
+from_address = automation@example.com
+from_name = SSL Checker
+reply_to_address = support@example.com
+reply_to_name = Support Team
+smtp_host = smtp.example.com
+smtp_port = 25
+use_tls = True
+smtp_username = OPTIONAL@example.com
+smtp_password = OPTIONAL
+
+[THREADS]
+max_threads = 8
